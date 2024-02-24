@@ -2,6 +2,7 @@
 ## This is an app that help you keep in shape and have a good life
 ## Added some more cool styling
 SUMMARY:
+
 app.py: Python file (Flask or other web framework) that serves the web application.
 
 app.js: JavaScript file containing the calculateBMI function.
