@@ -15,8 +15,6 @@ static/: A subdirectory stores static files (CSS, images, etc.).
 
 1.jpg, 2.jpg, 3.jpg, 4.jpg: Image files.
 
-styles.css: CSS file (same as the one in the root directory).
-
 templates/: A subdirectory stores HTML templates.
 
 bmi_form.html: The template for the BMI calculator form.
